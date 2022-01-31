@@ -366,7 +366,7 @@
                 <artifactId>tomcat7-maven-plugin</artifactId>
                 <version>2.2</version>
                 <configuration>
-				<url>http://13.235.244.142:8080/manager/text</url>
+				<url>http://3.110.147.221:8080/manager/text</url>
                     <server>apache-tomcat</server>
                       <username>admin</username>
     <password>admin</password>
@@ -446,7 +446,7 @@
 <artifactId>tomcat7-maven-plugin</artifactId> 
 <version>2.2</version> 
 <configuration> 
-<url>http://13.235.244.142:8080/manager/text</url> 
+<url>http://3.110.147.221:8080/manager/text</url> 
 <server>apache-tomcat</server> 
     <username>admin</username>
     <password>admin</password>
